@@ -1,10 +1,10 @@
-@media (min-width: 1400px) {
+@media (min-width: 2000px) {
 
-    .container,
-    .container-lg,
-    .container-md,
-    .container-sm,
+    .container-fluid,
+    .container-fluid-lg,
+    .container-fluid-md,
+    .container-fluid-sm,
     .container-fluid-xl {
-        max-width: 1440px;
+        max-width: 2000px;
     }
 }
